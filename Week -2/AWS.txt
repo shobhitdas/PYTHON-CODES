@@ -1,0 +1,15 @@
+Amazon S3 cloud storage:
+
+Create AWS account
+
+1. Go to 'AWS.com/login'
+2. Do sign up.
+3. get Login credentials for Root user. Download csv file for access key, and security key 
+4. Sign in using Root user login credentials.
+5. Go to users
+6. Create new user
+7. Provide user name, Access permissions, and Custom passwords
+8. Create user and get access key, security key for IAM user.
+9. Using console link you can login to IAM user .
+10. Check bukets./ create buckets.
+
